@@ -24,6 +24,7 @@
 		80120EAA26661C8E001FF910 /* PokemonDetailView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80120EA926661C8E001FF910 /* PokemonDetailView2.swift */; };
 		80120EAC26662FA1001FF910 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80120EAB26662FA1001FF910 /* StatsView.swift */; };
 		80120EAE26673A0E001FF910 /* CustomCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80120EAD26673A0E001FF910 /* CustomCorner.swift */; };
+		807F66BA2674141400FAF000 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807F66B92674141400FAF000 /* SearchBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		80120EA926661C8E001FF910 /* PokemonDetailView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailView2.swift; sourceTree = "<group>"; };
 		80120EAB26662FA1001FF910 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
 		80120EAD26673A0E001FF910 /* CustomCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCorner.swift; sourceTree = "<group>"; };
+		807F66B92674141400FAF000 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				8000129C26640DD90059D89F /* PokemonView.swift */,
+				807F66B92674141400FAF000 /* SearchBar.swift */,
 				800012A6266415B90059D89F /* PokedexView.swift */,
 				80120EA72665FF42001FF910 /* PokemonDetailView.swift */,
 				80120EA926661C8E001FF910 /* PokemonDetailView2.swift */,
@@ -216,6 +219,7 @@
 			files = (
 				8000129D26640DD90059D89F /* PokemonView.swift in Sources */,
 				80001292266401490059D89F /* NetworkManager.swift in Sources */,
+				807F66BA2674141400FAF000 /* SearchBar.swift in Sources */,
 				80001295266403520059D89F /* PokemonViewModel.swift in Sources */,
 				800012A92665736E0059D89F /* EvolutionChain.swift in Sources */,
 				80120EAA26661C8E001FF910 /* PokemonDetailView2.swift in Sources */,
